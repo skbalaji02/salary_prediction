@@ -1,9 +1,7 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import plotly as plo
 from plotly import graph_objs as go
-from plotly import offline as po
 from sklearn.linear_model import LinearRegression
 import numpy as np
 import time
